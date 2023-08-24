@@ -1,8 +1,8 @@
-#$ TITLE: Betaflight 4.4 TUNE
+#$ TITLE: Betaflight 4.4 JDPWORKS Tune Setup
 #$ FIRMWARE_VERSION: 4.4
 #$ CATEGORY: TUNE
 #$ STATUS: OFFICIAL
-#$ KEYWORDS: tune, pid
+#$ KEYWORDS: tune, pid, filters
 #$ AUTHOR: JDPWORKS
 #$ DESCRIPTION: Setup for P&D Tuning
 
