@@ -156,6 +156,7 @@
       "Foxeer Harvey",
       "Ivan Efimov (Limon)",
       "jappyjan",
+      "JDPWORKS",
       "Jye Smith",
       "KMfpv",
       "MrAlucardDante",
@@ -1848,6 +1849,26 @@
       ],
       "author": "Betaflight",
       "priority": 0
+    },
+    {
+      "fullPath": "presets/4.4/tune/TestSetup.txt",
+      "hash": "c4e45734c997e3a7055e1ce4d1b09071503eaee83fde1b9dae3dd0560d8f59c6",
+      "title": "Betaflight 4.4 TUNE defaults",
+      "firmware_version": [
+        "4.4"
+      ],
+      "category": "TUNE",
+      "status": "OFFICIAL",
+      "keywords": [
+        "defaults",
+        "reset",
+        "tune",
+        "pid",
+        "basic",
+        "default"
+      ],
+      "author": "JDPWORKS",
+      "priority": 1000000000000
     },
     {
       "fullPath": "presets/4.5/other/reset_gps.txt",
