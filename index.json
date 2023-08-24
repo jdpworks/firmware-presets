@@ -1851,7 +1851,7 @@
       "priority": 0
     },
     {
-      "fullPath": "presets/4.4/tune/TestSetup.txt",
+      "fullPath": "presets/4.4/tune/jdpworks-begin-tune.txt",
       "hash": "c4e45734c997e3a7055e1ce4d1b09071503eaee83fde1b9dae3dd0560d8f59c6",
       "title": "Betaflight 4.4 TUNE defaults",
       "firmware_version": [
