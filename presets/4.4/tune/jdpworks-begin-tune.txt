@@ -2,7 +2,7 @@
 #$ FIRMWARE_VERSION: 4.4
 #$ CATEGORY: TUNE
 #$ STATUS: OFFICIAL
-#$ KEYWORDS: tune, pid, filters
+#$ KEYWORDS: pid, filters
 #$ AUTHOR: JDPWORKS
 #$ DESCRIPTION: Setup for P&D Tuning
 
