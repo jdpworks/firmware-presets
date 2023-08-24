@@ -1,12 +1,12 @@
-#$ TITLE: Betaflight 4.4 TUNE defaults
+#$ TITLE: Betaflight 4.4 TUNE
 #$ FIRMWARE_VERSION: 4.4
 #$ CATEGORY: TUNE
 #$ STATUS: OFFICIAL
-#$ KEYWORDS: defaults, reset, tune, pid, basic, default
+#$ KEYWORDS: tune, pid
 #$ AUTHOR: JDPWORKS
 #$ DESCRIPTION: Setup for P&D Tuning
 
-set profile_name = Begin Tune
+set profile_name = -
 set dterm_lpf1_dyn_min_hz = 75
 set dterm_lpf1_dyn_max_hz = 125
 set dterm_lpf1_dyn_expo = 5
