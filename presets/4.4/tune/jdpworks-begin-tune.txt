@@ -7,6 +7,8 @@
 #$ DESCRIPTION: Setup for P&D Tuning
 #$ DESCRIPTION: 250 HZ
 
+# Filters
+
 set gyro_lpf1_static_hz = 0
 set gyro_lpf2_static_hz = 0
 set dyn_notch_count = 1
@@ -34,6 +36,18 @@ set feedforward_jitter_factor = 10
 
 set rc_smoothing = ON
 set rc_smoothing_auto_factor = 10
+set rc_smoothing_setpoint_cutoff = 0
+set rc_smoothing_feedforward_cutoff = 0
+
+set iterm_relax = RP
+set iterm_relax_type = SETPOINT
+set iterm_relax_cutoff = 15
+
+set iterm_rotation = OFF
+
+set anti_gravity_gain = 80
+
+
 
 
 
