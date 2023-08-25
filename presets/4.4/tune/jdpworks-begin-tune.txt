@@ -42,8 +42,7 @@ set simplified_dmax_gain = 0
 set simplified_i_gain = 0
 set simplified_pitch_d_gain = 100
 set simplified_pitch_pi_gain = 100
-set simplified_dterm_filter_multiplier = 100
-
+set simplified_master_multiplier = 100
 
 # PID Controller Feed Forward
 
