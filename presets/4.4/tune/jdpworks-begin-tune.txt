@@ -39,6 +39,7 @@ set angle_level_strength = 100
 
 #Simplified Tuning
 
+profile 0
 set simplified_pids_mode = RPY
 set simplified_d_gain = 100
 set simplified_pi_gain = 40
