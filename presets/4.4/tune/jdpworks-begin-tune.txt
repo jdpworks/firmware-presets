@@ -5,7 +5,7 @@
 #$ KEYWORDS: pid, filters
 #$ AUTHOR: JDPWORKS
 #$ DESCRIPTION: Setup for P&D Tuning
-#$ DESCRIPTION: 250 HZ
+#$ DESCRIPTION: 250 HZ, IMPORTANT to CHANGE MODE TO RPY
 
 # Filters
 
