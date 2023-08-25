@@ -14,8 +14,6 @@ set gyro_lpf1_dyn_min_hz = 0
 
 set dterm_lpf1_type = BIQUAD
 set dterm_lpf2_static_hz = 0
-set anti_gravity_gain = 0
-set iterm_relax = OFF
 set i_pitch = 0
 set d_pitch = 34
 set f_pitch = 0
