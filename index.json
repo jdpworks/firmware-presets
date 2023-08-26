@@ -1852,7 +1852,7 @@
     },
     {
       "fullPath": "presets/4.4/tune/jdpworks-begin-tune.txt",
-      "hash": "013848fb840c3d907025c0b6052b6aebfa03ac80ab1e89b71b6fb58cb6b5b15b",
+      "hash": "4c3b0c389c53befdad5c1f4ac4748940c887e1cec47337795c99c3ed1a55f12f",
       "title": "Betaflight 4.4 JDPWORKS Tune Setup",
       "firmware_version": [
         "4.4"
@@ -1880,22 +1880,6 @@
       ],
       "author": "JDPWORKS",
       "force_options_review": true,
-      "priority": 1000000000000
-    },
-    {
-      "fullPath": "presets/4.4/tune/jdpworks-rpy.txt",
-      "hash": "67243bf311e6867d4f61d5588d60ce4e42c427cf637aa9b151cd7716fc36a424",
-      "title": "Betaflight 4.4 JDPWORKS Tune Setup",
-      "firmware_version": [
-        "4.4"
-      ],
-      "category": "TUNE",
-      "status": "OFFICIAL",
-      "keywords": [
-        "pid",
-        "filters"
-      ],
-      "author": "JDPWORKS",
       "priority": 1000000000000
     },
     {
