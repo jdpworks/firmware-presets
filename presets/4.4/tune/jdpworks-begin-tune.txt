@@ -34,21 +34,6 @@ set simplified_pitch_d_gain = 100
 set simplified_pitch_pi_gain = 100
 set simplified_master_multiplier = 100
 
-# PID's
-
-# set p_pitch = 47
-# set i_pitch = 0
-# set d_pitch = 34
-# set f_pitch = 0
-# set p_roll = 45
-# set i_roll = 0
-# set d_roll = 30
-# set f_roll = 0
-# set p_yaw = 45
-# set i_yaw = 0
-# set d_yaw = 0
-# set f_yaw = 0
-
 # PID Controller Feed Forward
 
 set feedforward_smooth_factor = 45
